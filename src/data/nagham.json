@@ -1,0 +1,48 @@
+{
+  "profile": {
+    "name": "Nagham",
+    "location": "Dubai",
+    "description": "A vibrant restaurant and lounge in Dubai, managed by TICMC. Nagham offers a unique blend of culinary excellence and entertainment, creating an unforgettable atmosphere for its guests.",
+    "established": "2015"
+  },
+  "successStory": {
+    "title": "Grand Opening Success",
+    "challenge": "To launch a new restaurant and lounge concept in the highly competitive Dubai market and create immediate buzz and footfall.",
+    "solution": "TICMC orchestrated a spectacular grand opening event and implemented a robust management strategy that focuses on high-quality service, entertainment, and a curated menu to retain customers.",
+    "results": [
+      "Successful Grand Opening",
+      "High Customer Retention",
+      "Vibrant Social Scene"
+    ]
+  },
+  "highlights": [
+    {
+      "title": "Vibrant Atmosphere",
+      "description": "A lively setting that combines dining with entertainment, perfect for social gatherings."
+    },
+    {
+      "title": "Culinary Fusion",
+      "description": "A menu that brings together diverse flavors to cater to Dubai's cosmopolitan crowd."
+    },
+    {
+      "title": "Strategic Management",
+      "description": "Expertly managed operations ensuring smooth service and high standards."
+    },
+    {
+      "title": "Grand Launch",
+      "description": "A high-profile opening that established Nagham as a must-visit destination."
+    }
+  ],
+  "images": {
+    "logo": "/assets/nagham/logo.png",
+    "main": "/assets/nagham/grand-opening.png",
+    "gallery": [
+      "/assets/nagham/gallery-1.png",
+      "/assets/nagham/gallery-2.png",
+      "/assets/nagham/gallery-3.png",
+      "/assets/nagham/gallery-4.png",
+      "/assets/nagham/gallery-5.png",
+      "/assets/nagham/gallery-6.png"
+    ]
+  }
+}

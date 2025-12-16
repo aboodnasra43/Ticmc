@@ -1,0 +1,50 @@
+{
+  "name": "Mustafa Nasra",
+  "role": "Co-Founder",
+  "bio": "Mustafa Nasra, the older brother and co-founder, carries the torch of a rich family heritage in hospitality. With roots tracing back to grandparents who managed multiple butcher shops, restaurants, and cafes, Mustafa's journey began at a very young age, immersed in the art of service and culinary excellence.",
+  "heritage": {
+    "title": "A Legacy of Business & Media",
+    "description": "The Nasra family has thrived in the food and beverage industry as well as the media and marketing space. We are a family of businessmen who established a strong presence in entertainment, notably opening a private local TV channel that became the best in the country. Our legacy includes running many cafes and restaurants in downtown Tunis, as well as butcher shops. From an early age, we ventured abroad to understand different cultures and cities, enriching our perspective and business acumen. We are also based in Qatar and have offered our services there, expanding our regional footprint.",
+    "milestones": [
+      {
+        "year": "Early Years",
+        "title": "Family Roots",
+        "description": "Growing up in a family of restaurateurs and butchers, learning the trade from the ground up."
+      },
+      {
+        "year": "2002",
+        "title": "UAE Expansion",
+        "description": "Mustafa and Belhassen Nasra exploring the market in downtown Dubai, bringing the family's expertise to a new region."
+      },
+      {
+        "year": "Global Reach",
+        "title": "Marketing Influence",
+        "description": "Expanding influence through strategic partnerships and welcoming global icons to managed venues."
+      }
+    ]
+  },
+  "images": {
+    "portrait": "/assets/co-founder/mustafa-portrait.png",
+    "gallery": [
+      "/assets/co-founder/family-1.png",
+      "/assets/co-founder/family-2.png",
+      "/assets/co-founder/family-3.png",
+      "/assets/co-founder/family-4.png",
+      "/assets/co-founder/family-5.png",
+      "/assets/co-founder/family-6.png",
+      "/assets/co-founder/family-7.png",
+      "/assets/co-founder/family-8.png",
+      "/assets/co-founder/family-10.jpg",
+      "/assets/co-founder/mustafa-football-player.png"
+    ],
+    "video": "/assets/co-founder/family-heritage-v2.mp4",
+    "centerImage": "/assets/co-founder/mustafa-center.png"
+  },
+  "certificates": [
+    "/assets/co-founder/certificate-1.png",
+    "/assets/co-founder/certificate-2.jpg",
+    "/assets/co-founder/certificate-3.jpg",
+    "/assets/co-founder/certificate-4.png",
+    "/assets/co-founder/certificate-5.png"
+  ]
+}

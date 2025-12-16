@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "name": "Umberto Eco Marsa",
+    "location": "La Marsa, Tunisia",
+    "description": "An exquisite Italian dining experience in the heart of La Marsa. Umberto Eco offers top-notch Italian cuisine, blending authentic flavors with a chic and romantic atmosphere.",
+    "established": "2019"
+  },
+  "successStory": {
+    "title": "A Taste of Italy in Tunisia",
+    "challenge": "To establish a high-end Italian restaurant in La Marsa that stands out for its authenticity and quality in a competitive market.",
+    "solution": "TICMC curated a menu featuring premium imported ingredients and traditional recipes, paired with a sophisticated interior design to create a unique dining destination.",
+    "results": [
+      "Acclaimed for Authentic Italian Cuisine",
+      "Popular Destination in La Marsa",
+      "High Customer Satisfaction"
+    ]
+  },
+  "highlights": [
+    {
+      "title": "Authentic Flavors",
+      "description": "Traditional Italian recipes prepared with the finest ingredients."
+    },
+    {
+      "title": "Chic Atmosphere",
+      "description": "A stylish and romantic setting perfect for any occasion."
+    },
+    {
+      "title": "Premium Service",
+      "description": "Attentive and professional service ensuring a memorable experience."
+    },
+    {
+      "title": "Culinary Excellence",
+      "description": "Top-notch dishes crafted by expert chefs."
+    }
+  ],
+  "gallery": [
+    "/assets/umberto-eco/image-1.png",
+    "/assets/umberto-eco/image-2.png",
+    "/assets/umberto-eco/image-3.png",
+    "/assets/umberto-eco/image-4.jpg",
+    "/assets/umberto-eco/image-5.jpg",
+    "/assets/umberto-eco/image-6.jpg",
+    "/assets/umberto-eco/image-7.jpg"
+  ],
+  "video": "/assets/umberto-eco/new-showcase.mp4"
+}

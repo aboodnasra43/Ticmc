@@ -1,0 +1,26 @@
+{
+  "id": "blue-black",
+  "title": "Blue & Black",
+  "subtitle": "Restaurant Lounge — Menzah 6",
+  "description": "A sophisticated dining and lounge experience in the heart of Menzah 6. Blue & Black combines modern culinary excellence with a chic, relaxed atmosphere, making it the perfect destination for both business lunches and evening gatherings.",
+  "established": "2020",
+  "features": [
+    "Modern Lounge Atmosphere",
+    "International Fusion Cuisine",
+    "Premium Beverage Selection",
+    "Live Entertainment Events"
+  ],
+  "images": {
+    "main": "/assets/blue-black/image-1.png",
+    "gallery": [
+      "/assets/blue-black/image-1.png",
+      "/assets/blue-black/image-2.png",
+      "/assets/blue-black/image-3.png",
+      "/assets/blue-black/image-4.png",
+      "/assets/blue-black/image-5.png",
+      "/assets/blue-black/image-6.png",
+      "/assets/blue-black/image-7.png",
+      "/assets/blue-black/image-8.png"
+    ]
+  }
+}

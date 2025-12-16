@@ -1,0 +1,43 @@
+{
+  "profile": {
+    "name": "Victor Hugo",
+    "location": "La Marsa, Tunis",
+    "description": "An iconic luxury destination in the heart of La Marsa, blending French elegance with Tunisian hospitality. Victor Hugo stands as a testament to sophisticated dining and social excellence.",
+    "established": "2018"
+  },
+  "successStory": {
+    "title": "Elegance Reimagined",
+    "challenge": "To establish Victor Hugo as the premier luxury dining and social venue in La Marsa, catering to a discerning clientele while maintaining operational efficiency.",
+    "solution": "TICMC curated a bespoke management strategy focusing on high-end service standards, exclusive event management, and a refined culinary identity. We implemented rigorous staff training programs to ensure world-class service.",
+    "results": [
+      "Awarded 'Best Luxury Venue' in Tunis",
+      "Consistently Fully Booked Weekends",
+      "Established as a Celebrity Hotspot"
+    ]
+  },
+  "gallery": [
+    "/assets/victor-hugo/image-1.png",
+    "/assets/victor-hugo/image-2.png",
+    "/assets/victor-hugo/image-3.png",
+    "/assets/victor-hugo/image-4.jpg",
+    "/assets/victor-hugo/image-5.jpg",
+    "/assets/victor-hugo/image-6.jpg",
+    "/assets/victor-hugo/image-7.jpg",
+    "/assets/victor-hugo/image-8.jpg"
+  ],
+  "video": "/assets/victor-hugo/showcase-video.mp4",
+  "features": [
+    {
+      "title": "French Gastronomy",
+      "description": "A menu celebrating the finest French culinary traditions with local influences."
+    },
+    {
+      "title": "Exclusive Lounge",
+      "description": "A sophisticated lounge area designed for intimate gatherings and social networking."
+    },
+    {
+      "title": "Seaside Ambience",
+      "description": "Located in the upscale coastal town of La Marsa, offering a serene yet vibrant atmosphere."
+    }
+  ]
+}

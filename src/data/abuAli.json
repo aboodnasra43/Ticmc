@@ -1,0 +1,82 @@
+{
+  "profile": {
+    "name": "Abu Ali Restaurant",
+    "location": "Dubai, UAE",
+    "description": "A premier destination for authentic Middle Eastern cuisine, blending traditional flavors with modern culinary techniques in a luxurious setting.",
+    "established": "2013"
+  },
+  "successStory": {
+    "title": "Revitalizing Tradition",
+    "challenge": "Abu Ali Restaurant faced challenges in modernizing its operations while preserving its authentic identity. The goal was to elevate the dining experience and optimize kitchen workflows.",
+    "solution": "TICMC implemented a comprehensive restructuring plan, including menu engineering, staff training, and a complete brand refresh. We introduced modern management systems and standardized recipes to ensure consistency.",
+    "results": [
+      "30% increase in revenue within 6 months",
+      "Reduced food waste by 25%",
+      "Awarded 'Best Middle Eastern Restaurant' in 2023"
+    ]
+  },
+  "menu": [
+    {
+      "category": "Starters",
+      "items": [
+        {
+          "name": "Hummus Royal",
+          "description": "Creamy chickpea puree topped with pine nuts, olive oil, and sumac.",
+          "price": "AED 35"
+        },
+        {
+          "name": "Moutabal Smoked",
+          "description": "Char-grilled eggplant blended with tahini and pomegranate seeds.",
+          "price": "AED 38"
+        }
+      ]
+    },
+    {
+      "category": "Main Courses",
+      "items": [
+        {
+          "name": "Lamb Mansaf",
+          "description": "Traditional Jordanian dish with tender lamb, jameed yogurt sauce, and rice.",
+          "price": "AED 85"
+        },
+        {
+          "name": "Mixed Grill Platter",
+          "description": "Selection of shish tawook, lamb chops, and kofta served with garlic sauce.",
+          "price": "AED 110"
+        }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        {
+          "name": "Kunafa Nabulsi",
+          "description": "Warm cheese pastry soaked in sweet syrup and topped with pistachios.",
+          "price": "AED 45"
+        },
+        {
+          "name": "Umm Ali",
+          "description": "Traditional Egyptian bread pudding with nuts, raisins, and cream.",
+          "price": "AED 40"
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    "/assets/abu-ali/gallery-1.png",
+    "/assets/abu-ali/gallery-2.png",
+    "/assets/abu-ali/gallery-3.png",
+    "/assets/abu-ali/gallery-4.png",
+    "/assets/abu-ali/gallery-5.png",
+    "/assets/abu-ali/gallery-6.png",
+    "/assets/abu-ali/gallery-7.png",
+    "/assets/abu-ali/gallery-8.png",
+    "/assets/abu-ali/gallery-9.png",
+    "/assets/abu-ali/gallery-10.png",
+    "/assets/abu-ali/gallery-11.png",
+    "/assets/abu-ali/gallery-12.png",
+    "/assets/abu-ali/gallery-13.png",
+    "/assets/abu-ali/gallery-14.png",
+    "/assets/abu-ali/gallery-15.png"
+  ]
+}

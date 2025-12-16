@@ -1,0 +1,40 @@
+{
+  "profile": {
+    "name": "Fairouz",
+    "location": "Downtown Dubai",
+    "description": "A testament to visionary urban repurposing. Fairouz was conceived from a dormant, overlooked pocket in the heart of Downtown Dubai. Through a strategic partnership with Emaar, TICMC transformed this unused space into a premier dining destination that commands the skyline, standing shoulder-to-shoulder with the Burj Khalifa.",
+    "established": "2012"
+  },
+  "successStory": {
+    "title": "Architectural Alchemy",
+    "challenge": "The mandate was complex: to identify value in underutilized real estate within Dubai's most prestigious square kilometer and create a concept that could compete with established giants.",
+    "solution": "Leveraging decades of development expertise, TICMC conceptualized a bespoke building design that integrated seamlessly with Emaar's master plan. We didn't just fit a restaurant into a space; we created the space itself, crafting a jewel-box venue that maximized every inch of the prime footprint.",
+    "results": [
+      "Strategic Emaar Partnership",
+      "Ground-Up Concept Design",
+      "Prime Real Estate Activation"
+    ]
+  },
+  "highlights": [
+    {
+      "title": "Visionary Design",
+      "description": "Designed and built from the ground up in an unused space, proving that expert vision can unlock value anywhere."
+    },
+    {
+      "title": "Emaar Collaboration",
+      "description": "A direct collaboration with Emaar to activate prime land next to the Dubai Mall."
+    },
+    {
+      "title": "Iconic Views",
+      "description": "Strategically positioned to offer unrivaled views of the Fountains and Burj Khalifa."
+    },
+    {
+      "title": "Culinary Excellence",
+      "description": "A concept that matches the grandeur of its location with world-class service and cuisine."
+    }
+  ],
+  "images": {
+    "collab": "/assets/fairouz/design-concept-1.png",
+    "design": "/assets/fairouz/design-concept-2.png"
+  }
+}

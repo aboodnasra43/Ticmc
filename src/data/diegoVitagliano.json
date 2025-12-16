@@ -1,0 +1,50 @@
+{
+  "profile": {
+    "name": "Diego Vitagliano",
+    "location": "Qatar",
+    "description": "An authentic Italian franchise brought to Qatar under the expert management of TICMC. Led by Mustafa Nasra, Diego Vitagliano brings the true essence of Neapolitan pizza to the region, combining traditional craftsmanship with modern operational excellence.",
+    "established": "Managed by TICMC"
+  },
+  "successStory": {
+    "title": "Award-Winning Excellence",
+    "challenge": "To establish an authentic Neapolitan pizza brand in the competitive Qatar market and scale its operations beyond dine-in services.",
+    "solution": "Under the leadership of Mustafa Nasra, TICMC implemented a rigorous quality control system and expanded the brand's reach through a strategic catering division. We focused on maintaining the strict standards of the franchise while adapting to local preferences.",
+    "results": [
+      "Voted #1 Napolitana Pizza",
+      "Significant Growth in Private Catering",
+      "Successful Franchise Adaptation"
+    ]
+  },
+  "highlights": [
+    {
+      "title": "Top Rated Pizza",
+      "description": "Recognized as the best Napolitana pizza in the region, a testament to our commitment to authenticity."
+    },
+    {
+      "title": "Private Catering",
+      "description": "A booming catering division that brings the Diego Vitagliano experience to exclusive private events."
+    },
+    {
+      "title": "Franchise Management",
+      "description": "Expert franchise management ensuring brand consistency and operational efficiency."
+    },
+    {
+      "title": "Mustafa Nasra Leadership",
+      "description": "Directly managed by co-founder Mustafa Nasra, ensuring hands-on quality assurance."
+    }
+  ],
+  "images": {
+    "logo": "/assets/diego-vitagliano/logo.png",
+    "award": "/assets/diego-vitagliano/award.png"
+  },
+  "gallery": [
+    "/assets/diego-vitagliano/gallery-2.png",
+    "/assets/diego-vitagliano/new-1.png",
+    "/assets/diego-vitagliano/new-2.png",
+    "/assets/diego-vitagliano/new-3.png",
+    "/assets/diego-vitagliano/new-4.png",
+    "/assets/diego-vitagliano/new-5.png",
+    "/assets/diego-vitagliano/new-6.png",
+    "/assets/diego-vitagliano/new-7.png"
+  ]
+}
