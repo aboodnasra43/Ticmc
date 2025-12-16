@@ -1,15 +1,16 @@
-import { defineConfig } from "vite";
+import { defineConfig } from 'vite'
 import react from "@vitejs/plugin-react";
-import { youwareVitePlugin } from "@youware/vite-plugin-react";
+import { youwareVitePlugin } from "youware/vite-plugin";
 
-// https://vite.dev/config/
 export default defineConfig({
-  plugins: [youwareVitePlugin(), react()],
-  server: {
-    host: "127.0.0.1",
-    port: 5173,
-  },
-  build: {
-    sourcemap: true,
-  },
+    // ADD THIS NEW LINE TO FIX THE 404:
+    base: '/TICMCWEBSITE/',
+    plugins: [youwareVitePlugin(), react()],
+    server: {
+        host: "127.0.0.1",
+        port: 5173,
+    },
+    build: {
+        sourcemap: true,
+    },
 });
